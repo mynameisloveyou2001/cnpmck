@@ -40,13 +40,12 @@ body {
 .body {
     font-size: 14px;
     /* display: flex; */
-    background-color: #ecf0f5;
     font-weight: 700;
     justify-items: center;
     display: inline-block;
     margin-top: 52px;
     position: absolute;
-
+    width: 100%;
 }
 
 
@@ -82,11 +81,11 @@ body {
 .bodycontain{
     list-style: none;
     font-weight: 200;
-    opacity: 0.9;
     display: inline-block;
-    margin: 0px 0 -20px -25px;
+    margin: 0px 0 -20px 35px;
     padding: 0;
-    text-align: center;
+    text-align: left;
+    font-size: 20px;
 }
 
 
